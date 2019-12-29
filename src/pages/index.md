@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: GCT Digest
-image: /img/gct-stories.jpg
+image: /img/coffee-gear.png
 heading: Let the Stories do the talk
 subheading: Let the stories inspire you
 mainpitch:
